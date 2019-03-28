@@ -1,0 +1,40 @@
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.table-header-div {
+    background: #f8f8f8;
+    border: 1px solid #e7e7e7e7;
+}
+
+.table-problem-title {
+    width: 70%;
+    padding: 1rem;
+    font-weight: 600;
+}
+
+.table-problem-submission {
+    width: 30%;
+    padding: 1rem;
+    font-weight: 600;
+}
+
+.table-row-div {
+    padding: 1em;
+    border: 1px solid #e7e7e7e7;
+    border-top: none;
+}
+
+.problem-title-col {
+    width: 70%;
+    padding: 1rem;
+    border: 1px solid #e7e7e7;
+    border-right: none;
+}
+
+.problem-submission-col {
+    width: 30%;
+    padding: 1rem;
+    border: 1px solid #e7e7e7;
+}
